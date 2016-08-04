@@ -1,0 +1,28 @@
+_repo: Christopher-Columbus-and-the-New-World-of-His-Discovery---Volume-8_4115
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Young, Filson
+    aliases:
+    - Young, A. B. Filson (Alexander Bell Filson)
+    - Young, Alexander Bell Filson
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '1393'
+    url: http://www.gutenberg.org/2009/agents/1393
+description: ''
+gutenberg_issued: '2004-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration'
+- !lcc 'E011'
+- !lcsh 'Columbus, Christopher'
+- GITenberg
+title: Christopher Columbus and the New World of His Discovery — Volume 8
+url: http://www.gutenberg.org/ebooks/4115
