@@ -1,5 +1,8 @@
 _repo: Christopher-Columbus-and-the-New-World-of-His-Discovery---Volume-8_4115
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Young, Filson
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '1393'
     url: http://www.gutenberg.org/2009/agents/1393
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4115#Christopher-Columbus-and-the-New-World-of-His-Discovery---Volume-8
 gutenberg_issued: '2004-12-05'
 gutenberg_type: Text
 identifiers:
